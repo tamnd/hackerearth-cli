@@ -1,0 +1,10 @@
+title       = "he"
+baseURL     = "https://hackerearth-cli.tamnd.com/"
+description = "Browse HackerEarth programming challenges"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/hackerearth-cli"
